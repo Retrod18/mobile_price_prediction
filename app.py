@@ -11,7 +11,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-
+import sklearn
 # Load the pre-trained Gradient Boosting model
 # Make sure 'gb_model.pkl' is in the same folder as this script
 try:
